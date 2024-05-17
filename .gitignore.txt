@@ -1,0 +1,5 @@
+# test .gitignore
+*.doc
+
+# test .gitignore in other directory
+test/check.doc
