@@ -1,5 +1,5 @@
 # test .gitignore
-*.doc
+text.doc.txt
 
 # test .gitignore in other directory
 test/check.doc
